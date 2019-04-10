@@ -1,7 +1,7 @@
-title: "Blog Title"
-author: "Blog Author"
-description: "Really cool blog about ... something"
-lang: "en"
+title: "강승주의 블로그"
+author: "강승주"
+description: "If you want achieve greatness, stop asking for permission."
+lang: "kr"
 
 # Page settings
 permalink: /:title/          # see https://jekyllrb.com/docs/permalinks/
@@ -20,8 +20,8 @@ navigation:                  # (optional) site navigation in the header
 #  - title: "https://"       # linking external sites is also supported
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:niklasbuschmann@users.noreply.github.com"
-  github: "https://github.com/niklasbuschmann/contrast"
+  envelope: "mailto:rkdtmdwn@mail.com"
+  github: "https://github.com/trazomssome"
   rss: "/contrast/feed.xml"
 
 # Pagination
